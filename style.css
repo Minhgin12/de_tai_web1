@@ -88,6 +88,9 @@ nav ul li:nth-child(5){
 nav ul li:nth-child(5):hover a{
     color: #fff200;
 }
+nav ul li:nth-child(6){
+
+}
 .btn-content{
     position: relative;
     width: 15px;
@@ -95,6 +98,8 @@ nav ul li:nth-child(5):hover a{
     border-radius: 100%;
     background-color:#552c94;
     display: block;
+    float:left;
+    margin-right: 1px;
 }
 .btn-top{
     position:absolute;
